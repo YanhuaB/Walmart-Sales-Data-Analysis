@@ -9,7 +9,7 @@ In this project, I exported datasets into MySQL and created a structured templat
 I answered the following question through the SQL approach. The code file is placed in the same repository which's named walmart.sql.
 
 **Generic Question**<br/>
-	<li>How many unique cities does the data have?<br/>
+  <li>How many unique cities does the data have?<br/>
   <li>which city is each branch?<br/>
 		
 **Product**<br/>
