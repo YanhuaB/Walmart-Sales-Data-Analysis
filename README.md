@@ -1,6 +1,6 @@
 **Project Walmart Sales Data Analysis**
 
-Tools used: [My SQL]
+Tools used: MySQL
 
 
 <!--- reference: https://www.youtube.com/watch?v=36fBGMT0tuE&t=1s&ab_channel=CodeWithPrince -->
