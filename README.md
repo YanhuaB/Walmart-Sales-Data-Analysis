@@ -2,8 +2,8 @@
 
 Tools used: [My SQL]
 
-reference: https://www.youtube.com/watch?v=36fBGMT0tuE&t=1s&ab_channel=CodeWithPrince
 
+<!--- reference: https://www.youtube.com/watch?v=36fBGMT0tuE&t=1s&ab_channel=CodeWithPrince -->
 In this project, I exported datasets into MySQL and created a structured template with proper variable length and type to ensure accuracy.
 
 I answered the following question through the SQL approach. The code file is placed in the same repository which's named walmart.sql.
